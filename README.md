@@ -2,7 +2,8 @@
   <img src="https://user-images.githubusercontent.com/56519178/121331512-c1b2bc80-c938-11eb-9563-82e5943eda13.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 </div>
 <h2> Hey there! I'm Zahangir DX. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500"/>
 
 
 <h3> 👨🏻‍💻 About Me </h3>
