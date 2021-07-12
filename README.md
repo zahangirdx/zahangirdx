@@ -18,7 +18,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp;	React JS | React JS | Node JS |   
+- 💻 &nbsp;	React JS | Angular JS | Node JS |   
 - 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | Firebase | Xampp
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
