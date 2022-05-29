@@ -31,7 +31,7 @@
 
 <p align="center"> 
 &nbsp; <a href="https://www.instagram.com/zahangir_dx/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/56519178/121336399-4a335c00-c93d-11eb-908f-cb307c7004a5.png" width="50" /></a>
-&nbsp; <a href="mailto:iamdx10@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/56519178/121336635-8797e980-c93d-11eb-93ef-0a1226690ee0.png"  width="50" /></a>
+&nbsp; <a href="mailto:zahangir.dx@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/56519178/121336635-8797e980-c93d-11eb-93ef-0a1226690ee0.png"  width="50" /></a>
 </p>
 
 ⭐️ From [Zahangirdx](https://github.com/zahangirdx)
