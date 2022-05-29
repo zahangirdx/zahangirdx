@@ -3,7 +3,7 @@
 </div>
 <h2> Hey there! I'm Zahangir DX. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="480"/>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="480"/>
+
 
 
 <h3> 👨🏻‍💻 About Me </h3>
